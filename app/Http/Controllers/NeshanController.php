@@ -37,3 +37,4 @@ class NeshanController extends Controller
         ], 500);
     }
 }
+
