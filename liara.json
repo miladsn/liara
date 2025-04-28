@@ -1,5 +1,8 @@
 {
-    "paltform": "laravel",
+    "php": {
+        "version": "8.2"
+    },
+    "platform": "laravel",
     "app": "meetnet",
     "args": [ "php artisan octane:start --server=swoole --workers=2 --task-workers=2 --host=0.0.0.0 --port=80" ],
     "disks": [
@@ -7,8 +10,5 @@
             "name": "my-disc1",
             "mountTo": "public"
         }
-    ],
-    "php": {
-        "version": "8.2"
-    }
+    ]
 }
