@@ -28,3 +28,9 @@ Homestead.json
 .env.production
 .phpactor.json
 auth.json
+
+.idea/php.xml
+
+.idea/phpunit.xml
+
+.idea/vcs.xml
