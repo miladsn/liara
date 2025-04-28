@@ -34,3 +34,5 @@ auth.json
 .idea/phpunit.xml
 
 .idea/vcs.xml
+
+.idea/webServers.xml
